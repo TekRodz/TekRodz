@@ -1,5 +1,4 @@
+![Welcome](https://media.giphy.com/media/jOzuEZbfKYsTK07aP7/giphy.gif?cid=ecf05e476vngjj01azcg8jbr9b13olvceovrsz20ryjh6pp7&rid=giphy.gif&ct=g)
 
-![Space Background](https://media.giphy.com/media/9bTjZrytydVRK/source.gif?cid=ecf05e47vsqoccca86e38q5q7ilbt21k2w6jjd7b5gvgr72k&rid=source.gif&ct=g)
-# Welcome! I'm Kévin
+---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png)]()

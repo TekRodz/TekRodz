@@ -2,7 +2,9 @@
 
 ---
 
-Hi! I'm Kévin a web dev student in France.
+Hi! I'm Kévin a web dev student at IIM in France.
+
+My life is basically Star Wars, video games, and programming (I also go out sometimes 🙃)
 
 Languages I speak and use 💻
 
